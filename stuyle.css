@@ -1,0 +1,20 @@
+1h1 {
+    color: red; 
+} 
+
+h2 {
+     max-width: 100px;
+}
+
+h3 {
+    border: 10px solid orange;
+}
+
+ul{
+    font: italic bold 12px/30px Georgia, serif;
+}
+
+p {
+    text-align: center;
+}
+

@@ -1,0 +1,20 @@
+h1 {
+    background-color: green;
+} 
+
+h2 {
+    font-size: 200%;
+}
+
+h3 {
+    direction: rtl;
+}
+
+ul{
+    font-style: oblique;
+}
+
+p {
+    opacity: 0.5;
+}
+
